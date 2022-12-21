@@ -1,0 +1,24 @@
+Level 1
+Knight
+Archer
+Wizard
+Cleric
+!DarkCleric 1 !
+! Demon 2 !
+
+
+Level 2
+Knight
+Cleric
+Archer
+!Demon 4 !
+! Dragon 2 DarkCleric 1 Wolf 1 !
+
+Level 3
+Knight
+Wizard
+Archer
+Cleric
+!Demon 3 Dragon 2 !
+! Wolf 3 Dragon 3 !
+! Dragon 1 DarkCleric 1 !

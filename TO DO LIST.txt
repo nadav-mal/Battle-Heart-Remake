@@ -1,0 +1,14 @@
+*** = Not 
+ortant.
++- = Medium important.
+!!! = Very important.
+
+Tasks:
+-(!!!) Make some order in resources and macros.
+-(!!!) Make some order in gameplay and board.
+
+Bugs:
+- Enemies ignore closest target on spawn.
+
+
+
